@@ -121,7 +121,7 @@ outputs_step2/
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/GNSS_EX1.git
+git clone https://github.com/AdhamHamoudy/GNSS_Ex1.git
 cd GNSS_EX1
 
 # Create virtual environment
