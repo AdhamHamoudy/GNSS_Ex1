@@ -6,7 +6,7 @@
 > of the ground point at the centre of the camera in real-time.
 
 ---
-
+ 
 ## Table of Contents
 
 - [Problem Statement](#problem-statement)
